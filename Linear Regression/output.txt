@@ -1,0 +1,40 @@
+After 499 iteration:
+W: 1.064641
+b: 0.008481
+cost: 0.004600
+After 999 iteration:
+W: 1.067680
+b: 0.008465
+cost: 0.004600
+After 1499 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 1999 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 2499 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 2999 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 3499 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 3999 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 4499 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
+After 4999 iteration:
+W: 1.067686
+b: 0.008465
+cost: 0.004600
